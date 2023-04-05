@@ -1,0 +1,34 @@
+S_NO,First_Name,Last_Name,Gender,Email,Mobile_number,Experience_Range,Primary_skills,Secondary_Skills
+1,Revathi,Golakaram,F,revathigolakaram@gmail.com,9763758359,5,"Dot Net core,  Azure."," API's,  Agile."
+2,Monika ,N,F,Monika@gmail.com,7278547538,4,"  API's,  Agile, Team lead.","Dot Net core,  Azure"
+3,Amulya ,Reddy,F,amulyareddy@gmail.com,6365237674,6,building dashboards using Datadog or Dynatrace.,Aws 
+4,Siddu ,Nati,M,siddunati@gmail.com,93748357395,7,"
+In-depth understanding of RDBMS concepts and constructs
+SSIS, SSRS, Good Knowledge in ETL process, Git , ADF.",MySQL Concepts and implementations
+5,Mohammed,Harris,M,mohammedharris@gmail.com,83578585941,8,"Experience in banking operations and taxes including GST, VAT, TDS, ESI, income taxes and provident fund requirements and related payment cycles and processes.",Team lead.
+6,Varun ,M,M,Varun@gmail.com,9734828534,9,"
+In-depth understanding of RDBMS concepts and constructs
+SSIS, SSRS, Good Knowledge in ETL process.
+MySQL concepts and implementation",Git and adf.
+7,Ksheeraja,Aechana,F,ksheerajaaechana@gmail.com,9738482384,9,"
+React,  HTML, CSS, Typescript.",Basic Knowledge on Angular.
+8,Arvaind ,P,M,Arvaind@gmail.com,94873488829,8,"
+React,  HTML, CSS, Typescript, Team lead.",Basic Knowledge on Angular and javascript.
+9,Sai Nath ,Reddy,M,sai nathreddy@gmail.com,73987838323,3,"
+In-depth understanding of RDBMS concepts and constructs
+SSIS, SSRS, Good Knowledge in ETL process, Git , ADF.",MySQL Concepts and implementations
+10,Priya ,Patel,F,priyapatel@gmail.com,93785578473,5,"
+In-depth understanding of RDBMS concepts and constructs
+SSIS, SSRS, Good Knowledge in ETL process, Git , ADF
+MySQL concepts and implementation",
+11,Priyanaka ,Naidu,F,priyanakanaidu@gmail.com,83462675475,6,"Dot Net core,  Azure,  Agile, Team lead.",
+12,Swetha ,Reddy,F,swethareddy@gmail.com,85348579343,3,"
+React,  HTML, CSS, Typescript, Team lead.",Basic knowlegde on java
+13,Swathi ,Goud,F,swathigoud@gmail.com,96738438342,3,"Experience in banking operations and taxes including GST, VAT, TDS, ESI, income taxes and provident fund requirements and related payment cycles and processes.",
+14,Mohammed ,Asif,M,mohammedasif@gmail.com,,7,building dashboards using Datadog or Dynatrace.,Azure
+15,Mohammed ,Zaffer,M,mohammedzaffer@gmail.com,97467238523,5,"
+React,  HTML, CSS, Typescript, Team lead.",Basic Knowledge  on Azure
+16,Sony ,K,F,Sony@gmail.com,8647237578,8,"Dot Net core,  Azure,  API's,  Team lead.",Aws 
+17,Abhiram ,Reddy,M,abhiramreddy@gmail.com,94377885389,4,"HTML, CSS, Typescript, Team lead.",Basics on core java
+18,Akash ,Y,M,Akash@gmail.com,8768173487,2,building dashboards using Datadog.,GCP cloud
+19,Arun ,A,M,Arun@gmail.com,7533465733,8,"Dot Net core,  Azure,  API's,  Agile, Team lead.",Angular
